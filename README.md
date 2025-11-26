@@ -11,3 +11,11 @@ scenariusz:
 5. wychodzimy z dialogu będą zablokowane przyciski zakończ i anuluj mozna będzie zamknąć aplikacje i przy ponownym otwarciu "podpis dokumentu nie jest zgodny z poprzednim dokumentem" 
 
 
+test 2 
+praca z terminalem na paragonie niepoprawnie wyświetla się reszta 
+1. otwieramy paragon
+3. dajemy płatność 3 linii gotowka eur karta 
+4. dzielimy w losowy sposób ilość do zapłaty między nimi 
+5. po sukcesywnej zapłacie na terminalu cofamy strałką i jeszcze raz płacimy 
+
+
