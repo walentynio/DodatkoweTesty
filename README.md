@@ -18,4 +18,11 @@ praca z terminalem na paragonie niepoprawnie wyświetla się reszta
 4. dzielimy w losowy sposób ilość do zapłaty między nimi 
 5. po sukcesywnej zapłacie na terminalu cofamy strałką i jeszcze raz płacimy 
 
+test3 
+eksport bazy towarowej 
+scenariusz: 
+1. programijemy towary na Kasie o nazwach towar.b,towar_b, towar%b, towar/b
+2. ustawienia eksport danych -> towarów i usług zapisujemy ten plik na PC 
+3. zmieniamy z poziomu konsoli typ licencji na drukarka 
+4. emintyjemy paragon z takim samym towarem który wcześniej był zaprogromowany na licencji kasy.
 
