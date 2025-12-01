@@ -26,3 +26,14 @@ scenariusz:
 3. zmieniamy z poziomu konsoli typ licencji na drukarka 
 4. emintyjemy paragon z takim samym towarem który wcześniej był zaprogromowany na licencji kasy.
 
+test4 
+działanie ze skanerem 
+scenariusz: 
+1. licencja kasa połączyć skaner po bluetooth 
+2. zaprogramować produkt z kodem kreskowym 
+3. zeskanowac z widoku "sprzedaż" 
+4. klinąć zakończ -> e-paragon email -> nieudana wysyłka przy zepsutych certyfikatach 
+5. czekamy dopóki skaner nie wejdzie w stan śpiący wtedy zresetuje się dialog można będzie wyjść i modyfikować paragon 
+
+
+
