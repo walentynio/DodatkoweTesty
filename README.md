@@ -35,5 +35,25 @@ scenariusz:
 4. klinąć zakończ -> e-paragon email -> nieudana wysyłka przy zepsutych certyfikatach 
 5. czekamy dopóki skaner nie wejdzie w stan śpiący wtedy zresetuje się dialog można będzie wyjść i modyfikować paragon 
 
+sprawdzić: |
+filtry z ekranu sprzedazy
 
+napisać skrypt z postman do tworzenia bazy towarowej 
+
+
+
+
+notatki 
+1: spróbowac zamknąc apke nawi
+
+wypisać zadanie na "wydrukuj" moze dwa razy otworzyć dialog + e-paragon 
+
+w pole linii płatności czasami trzeba usuwać metode zeby wpisać ponownie(nagrać filmik) 
+
+
+tekst w rejestr zmian konf przy zmianie czytniku piszę ze drukarka
+
+zaciemnia przy dodaniu produktu z skanera
+
+sprawdzic w eksporcie inne opcje 
 
