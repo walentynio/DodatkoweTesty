@@ -1,4 +1,4 @@
-# DodatkoweTesty
+<img width="165" height="58" alt="image" src="https://github.com/user-attachments/assets/8d1b7dae-c833-4131-b206-ca899872aa67" /># DodatkoweTesty
 musi być 
 
 test 1 
@@ -33,9 +33,9 @@ scenariusz:
 2. zaprogramować produkt z kodem kreskowym 
 3. zeskanowac z widoku "sprzedaż" 
 4. klinąć zakończ -> e-paragon email -> nieudana wysyłka przy zepsutych certyfikatach 
-5. czekamy dopóki skaner nie wejdzie w stan śpiący wtedy zresetuje się dialog można będzie wyjść i modyfikować paragon 
-
-sprawdzić: |
+5. czekamy dopóki skaner nie wejdzie w stan śpiący wtedy zresetuje się dialog można będzie wyjść i modyf  ikować paragon 
+  
+sprawdzić: |ч
 filtry z ekranu sprzedazy
 
 napisać skrypt z postman do tworzenia bazy towarowej 
@@ -44,7 +44,7 @@ napisać skrypt z postman do tworzenia bazy towarowej
 
 
 notatki 
-1: spróbowac zamknąc apke nawi
+1: spróbowac zamknąc apke nawi ✅
 
 wypisać zadanie na "wydrukuj" moze dwa razy otworzyć dialog + e-paragon 
 
@@ -56,4 +56,22 @@ tekst w rejestr zmian konf przy zmianie czytniku piszę ze drukarka
 zaciemnia przy dodaniu produktu z skanera
 
 sprawdzic w eksporcie inne opcje 
+
+nie ma walidacji na produktach (plu barcode number)✅
+
+------
+zapytać czemu ustawienie naglówka linia 1 mam wpisane null a przy eksporcie nadal się wyświetla grupa ABS 
+
+przekazuje czas z kasy a nie z urządzenia, jest ok?
+
+statystyki sprzedazy wysyłka danych zakończona niepowodzeniem 
+
+raport fiskalizacji się nie pojawia jezeli nie ustawiony filtr :)
+
+cash change log jest pusty chociaz 
+
+
+
+
+
 
