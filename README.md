@@ -1,4 +1,4 @@
-<img width="165" height="58" alt="image" src="https://github.com/user-attachments/assets/8d1b7dae-c833-4131-b206-ca899872aa67" /># DodatkoweTesty
+ DodatkoweTesty
 musi być 
 
 test 1 
