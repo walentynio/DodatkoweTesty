@@ -70,6 +70,34 @@ raport fiskalizacji się nie pojawia jezeli nie ustawiony filtr :)
 
 cash change log jest pusty chociaz 
 
+============ATTEMP 2===
+setting.txt pusta tablica 
+
+test case 1 sprawdzić przez protokol + przetestować flagi i czy zwrócony jpk jest zgodny z tym co będzie wysłane do repo i JWS/JPKe-paragonu 
+
+sprawdzić z jws e-paragonu 
+
+opcje GUM popsuć podpis paragonu i czy zmieni się w eksporcie???? 
+
+
+
+sprawdzic w eksporcie appchecksum - zacząć aktualizacje i po zainstalowaniu eksportować sume kontrolną i jezeli będzie nowa to niepoprawnie 
+
+w trybie szkoleniowym czy jest opcja dostępna 
+
+sprawdzić currentTime jezeli ustawić na dzień wczorajszy 
+
+jezeli zmienić w licencji Nazwe podatnika przed/po fiskslizacja czy podmieniają się dane i czy wczytuje to przy eksporcie
+
+sprawdzić czy jest dokumnt nefiskalny terminalu przy eksporcie dokumnetów niefiskalncych 
+
+
+
+
+
+
+
+
 
 
 
