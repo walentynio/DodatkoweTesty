@@ -80,14 +80,16 @@ sprawdzić z jws e-paragonu
 opcje GUM popsuć podpis paragonu i czy zmieni się w eksporcie???? 
 
 
-
 sprawdzic w eksporcie appchecksum - zacząć aktualizacje i po zainstalowaniu eksportować sume kontrolną i jezeli będzie nowa to niepoprawnie 
 
-w trybie szkoleniowym czy jest opcja dostępna 
+w trybie szkoleniowym czy jest opcja dostępna eksportu
 
 sprawdzić currentTime jezeli ustawić na dzień wczorajszy 
 
 jezeli zmienić w licencji Nazwe podatnika przed/po fiskslizacja czy podmieniają się dane i czy wczytuje to przy eksporcie
+{
+do fiskalizacji wpisanie i pobieranie danych z innego nip nie ma wplywu a po fiskalizacji nie mozna zmienic nip ale mozna zmieni nazwe firmy i przy eksporcie nie wczyta
+}
 
 sprawdzić czy jest dokumnt nefiskalny terminalu przy eksporcie dokumnetów niefiskalncych 
 
